@@ -1,10 +1,1 @@
-
-
-this is a code for blinking LED on stm32 bluepill boards
-
-the hardwares used in this project are stm32f103c8t6 as the microcontroller and stlink v2 as the programmer
-
-the softwares used in this project are MDK-Arm(keil) and stm32cubeMX
-
-a step by step video tutorial about how to do this project will be uploaded on youtube soon 
-and the link will be provided. 
+This repository contains the code for blinking an LED on STM32 Blue Pill boards. The hardwares used in this project are the STM32F103C8T6 microcontroller and STLink V2 programmer. The softwares used are MDK-ARM (Keil) and STM32CubeMX. A step-by-step video tutorial on how to do this project will be uploaded on YouTube soon and the link will be provided.
